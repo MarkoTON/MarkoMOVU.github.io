@@ -276,20 +276,6 @@ footer .pay li {
 }
 
 
-.backToCV {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  margin: 20px;
-}
-.backToCV img {
-  width: 20%;
-  border: 1px solid #78C2AD;
-  border-radius: 50%;
-  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
-}
-
-
 
 /*=========  Media  =============*/
 
@@ -413,3 +399,19 @@ label {
     padding-right: 100px;
   }
 }
+
+
+.backToCV {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  margin: 20px;
+}
+
+.backToCV img {
+  width: 20%;
+  border: 1px solid #78C2AD;
+  border-radius: 50%;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
